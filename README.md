@@ -1,0 +1,51 @@
+<html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Antony</title>
+
+  <style>
+    <style>
+body{
+  background-color: lightskyblue
+  text-align:center;
+}
+h1{
+  color:blue
+}
+</style>
+<style>
+body {
+  background-color: #87CEEB
+}
+</style>
+
+  
+
+
+  </style>
+
+  
+</head>
+<body>
+      <h1>PLANOS EL TRAZO</h1>
+<p>Planta de cimiento.</p>
+<p>DISEÑANDO TU FUTURO CONSTRUYENDO TUS SUEÑOS.</p>
+<p aling = "center">
+<p> <img src=" te.jpg" height="150" width="150"/></p>
+<p> <img src=" abi.jpg" height="300" width="400"/></p>
+<h2>Datos de contacto:</h2>
+<p> No. de contacto:4324-6768</p>
+<p>Correo electrónico: ajcet-antony-j195eex-24@ilma.edu.gt</p>
+<p>Ubicacón: 1 Calle 9-30 Zona 3, Chimaltenango, Guatemala</p>
+<hr />
+<h2>Si quieres  más información solo contactame.</h2>
+<p>Espero te haya gustado mi proyecto.</p>
+
+  <script>
+    
+  </script>
+</body>
+</html>
