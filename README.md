@@ -23,11 +23,6 @@ body {
 </style>
 
   
-
-
-  </style>
-
-  
 </head>
 <body>
       <h1>PLANOS EL TRAZO</h1>
@@ -43,9 +38,5 @@ body {
 <hr />
 <h2>Si quieres  más información solo contactame.</h2>
 <p>Espero te haya gustado mi proyecto.</p>
-
-  <script>
-    
-  </script>
 </body>
 </html>
