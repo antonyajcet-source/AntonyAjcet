@@ -37,3 +37,4 @@ body {
 <hr />
 <h2>Si quieres  más información solo contactame.</h2>
 <p>Espero te haya gustado mi proyecto.</p>
+</HTML>
