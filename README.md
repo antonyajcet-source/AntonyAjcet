@@ -6,9 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Antony</title>
 
-  <style>
-    <style>
-body{
+<style>
+body
   background-color: lightskyblue
   text-align:center;
 }
@@ -38,5 +37,3 @@ body {
 <hr />
 <h2>Si quieres  más información solo contactame.</h2>
 <p>Espero te haya gustado mi proyecto.</p>
-</body>
-</html>
