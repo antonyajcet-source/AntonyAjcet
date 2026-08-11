@@ -19,11 +19,6 @@ h1{
 body {
   background-color: #87CEEB
 }
-</style>
-
-  
-</head>
-<body>
       <h1>PLANOS EL TRAZO</h1>
 <p>Planta de cimiento.</p>
 <p>DISEÑANDO TU FUTURO CONSTRUYENDO TUS SUEÑOS.</p>
@@ -37,4 +32,4 @@ body {
 <hr />
 <h2>Si quieres  más información solo contactame.</h2>
 <p>Espero te haya gustado mi proyecto.</p>
-</HTML>
+  </HTML>
